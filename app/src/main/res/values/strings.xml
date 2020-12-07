@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TabView and ViewPager</string>
+    <string name="chat">Chat</string>
+    <string name="status">Status</string>
+    <string name="panggilan">Panggilan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ini_chat">Ini chat</string>
+    <string name="hello_one_fragment">Hello ONE fragment</string>
+    <string name="fragment_1">FRAGMENT 1</string>
+    <string name="fragment_2">FRAGMENT 2</string>
+    <string name="fragment_3">FRAGMENT 3</string>
+</resources>
